@@ -1,2 +1,2 @@
-# first-repo
+# master's readme
 this is master branch's read me.
